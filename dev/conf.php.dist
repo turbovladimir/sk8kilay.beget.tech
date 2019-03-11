@@ -1,6 +1,6 @@
 <?php
-$dbuser =   'sk8kilay_test';
-$dbpass =   'hq2*9gW1';
+$dbuser =   '';
+$dbpass =   '';
 $dbname =   'sk8kilay_test';
 $host   =   'localhost';
 ?>
